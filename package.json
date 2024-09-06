@@ -16,7 +16,7 @@
     "dist": "electron-builder --mac --linux --win"
   },
   "dependencies": {
-    "electron-timber": "^0.5.1",
+    "electron-timber": "^1.0.0",
     "mathjs": "^5.0.4"
   },
   "devDependencies": {
